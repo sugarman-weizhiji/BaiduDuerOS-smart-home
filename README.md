@@ -1,2 +1,1 @@
-啦啦你在吗测试写一下
-test
+# Welcome to BaiduDuerOS-smart-home
