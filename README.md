@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# 12你咋 
-=======
 # Welcome to BaiduDuerOS-smart-home
 ## 什么是BaiduDuerOS-smart-home
 基于百度BaiduDuerOS开放平台，实现智能家居的控制
@@ -22,5 +19,3 @@
 2. 小度app找相应的skill,进行账户授权
 3. 发现设备
 4. 控制设备
-
->>>>>>> 8a8fd53877f383946007ded076206765c9b3e9c0
